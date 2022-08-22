@@ -1,0 +1,47 @@
+.add-product-design{
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+h1{
+    text-align: center;
+}
+
+.navbar, .nav-link, .navbar-brand{
+    background-color: #0085c1;
+    color: white !important;
+}
+
+.navbar-expand-lg .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    color: #006DCC !important;
+    background-color: #cccccc;
+}
+
+.footer-copyright{
+    background-color: #0085c1;
+    color: white;
+}
+
+.card{
+    margin: 0 auto;
+    width: 80%;
+    background-color: #00b9e7;
+}
+
+thead th {
+    background-color: #00b9e7;
+    color: white;
+    text-align: center;
+}
+
+tbody td{
+    text-align: center;
+}
+
+h1, h3{
+    color: #660066;
+}
+
+.card a{
+    color: #ffffff;
+}
